@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438448916335",
+    "firebase_url": "https://uas-android-pnj.firebaseio.com",
+    "project_id": "uas-android-pnj",
+    "storage_bucket": "uas-android-pnj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438448916335:android:873943def6a3aca8",
+        "android_client_info": {
+          "package_name": "pnj.ac.id.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438448916335-skolqasc9s8bf9v8b243tq0sg788iebm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pnj.ac.id.uas",
+            "certificate_hash": "c1e6026abc7a1fd6c022c8545abdad6e80831e9a"
+          }
+        },
+        {
+          "client_id": "438448916335-126gleg1a97kt0or1encoubt40cedunf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dF9lfPOwwxibomluv1dBUayhJnlShE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438448916335-126gleg1a97kt0or1encoubt40cedunf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

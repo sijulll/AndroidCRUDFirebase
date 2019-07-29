@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#575fcf</color>
+    <color name="colorPrimaryDark">#575fcf</color>
+    <color name="colorAccent">#4bcffa</color>
+    <color name="colorsub">#34e7e4</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradstart">#575fcf</color>
+    <color name="gradend">#4bcffa</color>
+
+
+
+        <!--Material COlor from ( www.flatuicolors.com )-->
+    <color name="materialbgColor">#fcfcfc</color>
+    <color name="materialLightGray">#ededed</color>
+    <color name="materialDeepPuple">#7c4dff</color>
+    <color name="materialYellow">#ffb300</color>
+    <color name="materialGreen">#00bfa5</color>
+    <color name="materialPinkAccent">#ff4081</color>
+
+    <!--Julian Maulana Color Setting from ( www.materialui.co )-->
+
+    <!--Dark Periwinkle(darkblue) Color = #575fcf-->
+    <!--Megaman(lightblue)Color = #4bcffa-->
+    <!--Fresh Turquoise (sub) = #34e7e4-->
+    <!--White = #ffffff-->
+    <!--Transparent = #00000000-->
+
+    
+</resources>
